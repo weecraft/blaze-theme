@@ -1,0 +1,32 @@
+# PUBLISH VISUAL STUDIO EXTENSION & RELEASE PACKAGE
+#
+# Publish this project into the node package
+# so can access and install from the aplication
+# Publish using azure publisher
+# ***** NOTE *****
+# Every tag & release created will automatically create a new
+# version of packages
+
+name: Publish Visual Studio Extension
+
+on:
+  push:
+    tags:
+      - "v*"
+
+jobs:
+  publish-vscode-extension:
+    name: Publish to Visual Studio Extension
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+          registry-url: https://registry.npmjs.org/
+
+      - name: Install VSCE
+        run: npm i -g @vscode/vsce
+
+      - name: Publish the package
+        run: vsce publish -p ${{secrets.VSCE_PAT}}

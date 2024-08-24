@@ -1,0 +1,55 @@
+{
+  "name": "cosmic-theme",
+  "version": "1.0.0",
+  "displayName": "Cosmic Theme",
+  "publisher": "weecraft",
+  "description": "Minimal, modern and simple vscode theme for light and dark environment",
+  "keywords": [
+    "visual studio code",
+    "themes",
+    "light",
+    "dark",
+    "cosmic",
+    "modern",
+    "minimal",
+    "simple"
+  ],
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "author": {
+    "email": "nyomansunima@gmail.com",
+    "name": "Weecraft",
+    "url": "https://weecraft.club"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "icon": "assets/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/weecraft/cosmic-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/weecraft/cosmic-theme/issues",
+    "email": "nyomansunima@gmail.com"
+  },
+  "homepage": "https://github.com/weecraft/cosmic-theme",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cosmic Light",
+        "uiTheme": "vs",
+        "path": "./themes/cosmic-light.json"
+      },
+      {
+        "label": "Cosmic Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cosmic-dark.json"
+      }
+    ]
+  }
+}
