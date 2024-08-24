@@ -1,6 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "Cosmic Light",
+  "name": "Blaze Light",
   "type": "light",
   "colors": {
     "activityBar.background": "#fcfcfc",

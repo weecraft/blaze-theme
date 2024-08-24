@@ -1,7 +1,7 @@
 {
-  "name": "cosmic-theme",
+  "name": "blaze-theme",
   "version": "1.0.0",
-  "displayName": "Cosmic Theme",
+  "displayName": "Blaze Theme",
   "publisher": "weecraft",
   "description": "Minimal, modern and simple vscode theme for light and dark environment",
   "keywords": [
@@ -9,7 +9,7 @@
     "themes",
     "light",
     "dark",
-    "cosmic",
+    "blaze",
     "modern",
     "minimal",
     "simple"
@@ -31,24 +31,24 @@
   "icon": "assets/icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/weecraft/cosmic-theme"
+    "url": "https://github.com/weecraft/blaze-theme"
   },
   "bugs": {
-    "url": "https://github.com/weecraft/cosmic-theme/issues",
+    "url": "https://github.com/weecraft/blaze-theme/issues",
     "email": "nyomansunima@gmail.com"
   },
-  "homepage": "https://github.com/weecraft/cosmic-theme",
+  "homepage": "https://github.com/weecraft/blaze-theme",
   "contributes": {
     "themes": [
       {
-        "label": "Cosmic Light",
+        "label": "Blaze Light",
         "uiTheme": "vs",
-        "path": "./themes/cosmic-light.json"
+        "path": "./themes/blaze-light.json"
       },
       {
-        "label": "Cosmic Dark",
+        "label": "Blaze Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/cosmic-dark.json"
+        "path": "./themes/blaze-dark.json"
       }
     ]
   }

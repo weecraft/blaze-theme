@@ -1,6 +1,6 @@
 # Contributing
 
-Welcome to the Cosmic Visual studio code theme project! We appreciate your interest in contributing to our open-source project. This document outlines the guidelines and best practices for contributing to the project effectively. By following these guidelines, you can help us maintain a collaborative and efficient development process.
+Welcome to the Blaze Visual studio code theme project! We appreciate your interest in contributing to our open-source project. This document outlines the guidelines and best practices for contributing to the project effectively. By following these guidelines, you can help us maintain a collaborative and efficient development process.
 
 ## Table of Contents
 
@@ -34,7 +34,7 @@ We expect all contributors to adhere to our [Code of Conduct](./CODE_OF_CONDUCT.
 1. Fork the repository to your GitHub account.
 2. Clone the forked repository to your local machine.
    ```
-   git clone https://github.com/weecraft/cosmic-theme.git
+   git clone https://github.com/weecraft/blaze-theme.git
    ```
 3. Install the required dependencies.
    ```
@@ -64,8 +64,8 @@ We welcome various forms of contributions, including bug reports, feature reques
 
 If you encounter a bug or unexpected behavior in the project, please follow these steps:
 
-1. Ensure the bug hasn't been reported already by searching the [issue tracker](https://github.com/weecraft/cosmic-theme/issues).
-2. If the bug hasn't been reported, [open a new issue](https://github.com/weecraft/cosmic-theme/issues/new) and provide a clear title and description of the problem.
+1. Ensure the bug hasn't been reported already by searching the [issue tracker](https://github.com/weecraft/blaze-theme/issues).
+2. If the bug hasn't been reported, [open a new issue](https://github.com/weecraft/blaze-theme/issues/new) and provide a clear title and description of the problem.
 3. Include steps to reproduce the bug and provide any relevant code snippets or error messages.
 4. Be responsive to any follow-up questions or requests for clarification.
 
@@ -73,8 +73,8 @@ If you encounter a bug or unexpected behavior in the project, please follow thes
 
 If you have a suggestion for a new feature or enhancement, please follow these steps:
 
-1. Check the [issue tracker](https://github.com/weecraft/cosmic-theme/issues) to see if the feature has been requested before.
-2. If it hasn't been requested, [open a new issue](https://github.com/weecraft/cosmic-theme/issues/new).
+1. Check the [issue tracker](https://github.com/weecraft/blaze-theme/issues) to see if the feature has been requested before.
+2. If it hasn't been requested, [open a new issue](https://github.com/weecraft/blaze-theme/issues/new).
 3. Clearly describe the feature you'd like to see, including its purpose and any specific requirements or dependencies.
 4. Engage in any discussions or clarifications related to the feature request.
 
@@ -138,7 +138,7 @@ git commit -m "🍀 feature: your feature description"
 
 We encourage open and respectful communication within the community. You can reach out to us through the following channels:
 
-- [GitHub Issues](https://github.com/weecraft/cosmic-theme/issues) for bug reports, feature requests, and general discussions.
+- [GitHub Issues](https://github.com/weecraft/blaze-theme/issues) for bug reports, feature requests, and general discussions.
 
 <br/>
 

@@ -1,6 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "Cosmic Dark",
+  "name": "Blaze Dark",
   "type": "dark",
   "colors": {
     "editorIndentGuide.activeBackground1": "#383838",

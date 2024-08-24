@@ -1,4 +1,4 @@
-# Cosmic Theme
+# Blaze Theme
 
 _Modern, minimal & simple visual studio code theme_
 
@@ -16,13 +16,13 @@ _Modern, minimal & simple visual studio code theme_
 
 ## About
 
-The "Cosmic" theme for Visual Studio Code is a visually appealing and user-friendly color scheme designed to enhance the coding experience. It incorporates a balanced blend of colors to provide good contrast, readability, and a touch of personality to your code editor.
+The "Blaze" theme for Visual Studio Code is a visually appealing and user-friendly color scheme designed to enhance the coding experience. It incorporates a balanced blend of colors to provide good contrast, readability, and a touch of personality to your code editor.
 
 <br/>
 
 ### Motivations
 
-Embracing the "Cosmic" theme for Visual Studio Code can do more than just beautify your coding environment—it can ignite your motivation and elevate your coding experience to new heights. Here's how:
+Embracing the "Blaze" theme for Visual Studio Code can do more than just beautify your coding environment—it can ignite your motivation and elevate your coding experience to new heights. Here's how:
 
 **Inspiration through Aesthetics:**
 
