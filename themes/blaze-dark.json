@@ -101,8 +101,8 @@
     "input.foreground": "#a4a4a4",
     "input.border": "#000000",
     "input.placeholderForeground": "#696969",
-    "quickInput.background": "#1B1B1D",
-    "quickInput.foreground": "#999999",
+    "quickInput.background": "#161618",
+    "quickInput.foreground": "#A6A6A6",
     "inputOption.activeBackground": "#3a3a3a",
 
     // list and trees
@@ -137,12 +137,12 @@
 
     // sidebar
     "sideBar.background": "#141415",
-    "sideBar.foreground": "#999999",
+    "sideBar.foreground": "#A6A6A6",
     "sideBar.border": "#212122",
     "sideBarSectionHeader.background": "#202020",
     "sideBarTitle.foreground": "#808080",
     "sideBarSectionHeader.foreground": "#1f2328",
-    "sideBarSectionHeader.border": "#f4f4f4",
+    "sideBarSectionHeader.border": "#212122",
 
     // activity bar
     "activityBar.background": "#141415",
@@ -166,11 +166,11 @@
     "tab.activeBackground": "#141415",
     "tab.border": "#00000000",
     "tab.unfocusedActiveBorder": "#00000000",
-    "tab.activeForeground": "#999999",
-    "tab.inactiveBackground": "#1C1C1C",
-    "tab.inactiveForeground": "#999999",
+    "tab.activeForeground": "#A6A6A6",
+    "tab.inactiveBackground": "#1A1A1A",
+    "tab.inactiveForeground": "#A6A6A6",
     "tab.hoverBackground": "#141415",
-    "tab.unfocusedInactiveForeground": "#999999",
+    "tab.unfocusedInactiveForeground": "#A6A6A6",
 
     // terminals, colors, ansi
     "terminal.ansiBlack": "#333",
@@ -207,7 +207,7 @@
     "debugIcon.breakpointForeground": "#FF7A84",
     "debugIcon.breakpointStackframeForeground": "#79b8ff",
     "debugIcon.breakpointUnverifiedForeground": "#848484",
-    "debugToolBar.background": "#ffffff",
+    "debugToolBar.background": "#161618",
 
     // console
     "debugConsole.infoForeground": "#57606a",
