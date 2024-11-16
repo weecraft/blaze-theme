@@ -14,32 +14,33 @@
     "button.secondaryHoverBackground": "#631e1e",
 
     // worksapce configs, views, sidebar, title
-    "titleBar.activeBackground": "#1A1A1A",
-    "titleBar.activeForeground": "#808080",
-    "titleBar.inactiveBackground": "#1A1A1A",
-    "titleBar.inactiveForeground": "#808080",
+    "titleBar.activeBackground": "#141415",
+    "titleBar.activeForeground": "#a3a3a3",
+    "titleBar.inactiveBackground": "#141415",
+    "titleBar.inactiveForeground": "#a3a3a3",
     "titleBar.border": "#00000000",
 
     // general
-    "focusBorder": "#141415",
-    "foreground": "#808080",
-    "descriptionForeground": "#808080",
+    "focusBorder": "#010101",
+    "foreground": "#a3a3a3",
+    "descriptionForeground": "#a3a3a3",
     "errorForeground": "#cf222e",
     "textBlockQuote.background": "#ffffff",
     "textBlockQuote.border": "#f4f4f4",
     "textCodeBlock.background": "#afb8c133",
-    "textPreformat.foreground": "#808080",
+    "textPreformat.foreground": "#a3a3a3",
     "textSeparator.foreground": "#d8dee4",
     "textLink.foreground": "#CCC",
     "textLink.activeForeground": "#fafafa",
-    "icon.foreground": "#808080",
+    "icon.foreground": "#a3a3a3",
     "keybindingLabel.foreground": "#1f2328",
 
     // editor related configs
-    "editor.background": "#141415",
+    "editor.background": "#010101",
+    // "editor.background": "#*141415",
     "editor.foreground": "#a6a6a6",
     "editor.foldBackground": "#6e77811a",
-    "editorGroupHeader.tabsBackground": "#1A1A1A",
+    "editorGroupHeader.tabsBackground": "#141415",
     "editorGroupHeader.tabsBorder": "#00000000",
     "editor.lineHighlightBackground": "#00000080",
     "editor.findMatchBackground": "#2485e699",
@@ -69,9 +70,9 @@
     "editorCursor.foreground": "#db2777",
 
     "editorInlayHint.background": "#afb8c133",
-    "editorInlayHint.foreground": "#808080",
+    "editorInlayHint.foreground": "#a3a3a3",
     "editorInlayHint.typeBackground": "#afb8c133",
-    "editorInlayHint.typeForeground": "#808080",
+    "editorInlayHint.typeForeground": "#a3a3a3",
 
     "editorGutter.modifiedBackground": "#d4a72c66",
     "editorGutter.addedBackground": "#4ac26b66",
@@ -94,7 +95,7 @@
     "gitDecoration.deletedResourceForeground": "#cf222e",
     "gitDecoration.untrackedResourceForeground": "#1a7f37",
     "gitDecoration.conflictingResourceForeground": "#bc4c00",
-    "gitDecoration.submoduleResourceForeground": "#808080",
+    "gitDecoration.submoduleResourceForeground": "#a3a3a3",
 
     // input
     "input.background": "#0e0e0f",
@@ -117,35 +118,35 @@
     "tree.indentGuidesStroke": "#00000000",
 
     // panel & view
-    "panel.background": "#141415",
-    "panel.border": "#1A1A1A",
-    "panelTitle.activeBorder": "#1A1A1A",
+    "panel.background": "#010101",
+    "panel.border": "#141415",
+    "panelTitle.activeBorder": "#141415",
     "panelTitle.activeForeground": "#FAFAFA",
     "panelTitle.inactiveForeground": "#484848",
     "peekView.border": "#444",
     "peekViewEditor.background": "#242424",
     "pickerGroup.border": "#363636",
-    "pickerGroup.foreground": "#141415",
-    "panelInput.border": "#141415",
+    "pickerGroup.foreground": "#010101",
+    "panelInput.border": "#010101",
 
     // scrollbar
     "scrollbar.shadow": "#0a0a0b",
-    "scrollbarSlider.background": "#141415",
+    "scrollbarSlider.background": "#010101",
     "scrollbarSlider.hoverBackground": "#8c959f3d",
     "scrollbarSlider.activeBackground": "#8c959f47",
     "progressBar.background": "#FAFAFA",
 
     // sidebar
-    "sideBar.background": "#141415",
+    "sideBar.background": "#010101",
     "sideBar.foreground": "#A6A6A6",
     "sideBar.border": "#212122",
     "sideBarSectionHeader.background": "#202020",
-    "sideBarTitle.foreground": "#808080",
+    "sideBarTitle.foreground": "#a3a3a3",
     "sideBarSectionHeader.foreground": "#1f2328",
     "sideBarSectionHeader.border": "#212122",
 
     // activity bar
-    "activityBar.background": "#141415",
+    "activityBar.background": "#010101",
     "activityBar.foreground": "#858585",
     "activityBarBadge.background": "#321B01",
     "activityBarBadge.foreground": "#ea580c",
@@ -163,13 +164,13 @@
     "statusBarItem.activeBackground": "#ffffff0c",
 
     // tabs, header
-    "tab.activeBackground": "#141415",
+    "tab.activeBackground": "#010101",
     "tab.border": "#00000000",
     "tab.unfocusedActiveBorder": "#00000000",
     "tab.activeForeground": "#A6A6A6",
-    "tab.inactiveBackground": "#1A1A1A",
+    "tab.inactiveBackground": "#141415",
     "tab.inactiveForeground": "#A6A6A6",
-    "tab.hoverBackground": "#141415",
+    "tab.hoverBackground": "#010101",
     "tab.unfocusedInactiveForeground": "#A6A6A6",
 
     // terminals, colors, ansi
@@ -188,7 +189,7 @@
     "terminal.ansiRed": "#D32F2F",
     "terminal.ansiWhite": "#c7c7c7",
     "terminal.ansiYellow": "#f29718",
-    "terminal.background": "#141415",
+    "terminal.background": "#010101",
     "terminal.ansiBrightBlack": "#5c5c5c",
 
     // debug icon
